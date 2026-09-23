@@ -7,7 +7,7 @@ Oklahoma, Fall 2026. Ridwan Hoque.
 
 | Folder | Assignment |
 |---|---|
-| `project1/` | Project 1 — a backpropagation network for two-class classification, written from scratch in NumPy |
+| `project1/` | Project 1 : a backpropagation network for two-class classification, written from scratch in NumPy |
 
 
 
