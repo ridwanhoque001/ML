@@ -1,4 +1,4 @@
-# CS 4033/5033 — Machine Learning Fundamentals
+# CS 4033/5033 : Machine Learning Fundamentals
 
 Coursework for CS 4033/5033, Machine Learning Fundamentals, University of
 Oklahoma, Fall 2026. Ridwan Hoque.
@@ -10,12 +10,7 @@ Oklahoma, Fall 2026. Ridwan Hoque.
 | `hw1/` | Homework 1 — artificial neuron representation, decision boundaries, and the perceptron learning rule |
 | `project1/` | Project 1 — a backpropagation network for two-class classification, written from scratch in NumPy |
 
-## Homework 1
 
-Analytic work on a single artificial neuron: the augmented input vector, the
-decision boundary as the solution of `net = 0`, linear separability, and a full
-trace of the perceptron learning rule to convergence. The write-up includes
-scans of the handwritten working as an appendix.
 
 ## Project 1
 
@@ -36,8 +31,4 @@ Headline results:
 
 See `project1/README.md` for how to reproduce everything.
 
-## Credit
 
-All code is original and written for these assignments. An AI assistant
-(Claude) was used for implementation, experiments and drafting, as permitted by
-the course; each write-up carries a full credit statement.
