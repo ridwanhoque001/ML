@@ -1,0 +1,27 @@
+# Course readings and lecture slides are NOT redistributable.
+# Keep textbook chapters and the instructor's decks out of this repository.
+*.pdf
+!hw1/HW1_CS4033_Ridwan_Hoque.pdf
+!project1/report/project1.pdf
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Python
+__pycache__/
+*.pyc
+
+# Archives and scratch
+*.zip
+_gh/
+_gh_staging/
+
+# OS
+.DS_Store
+Thumbs.db
