@@ -61,8 +61,4 @@ capacity sweep from 4 to 64 hidden units showed that extra capacity changes
 nothing, including training accuracy, so the network is not capacity-limited
 and the shortfall most likely lies in the ceiling estimate.
 
-## Credit
 
-All code is original and written for this assignment; no ML library is used.
-An AI assistant (Claude) was used for implementation, experiments and drafting,
-as permitted by the course. See the report's final section for full detail.
