@@ -7,7 +7,6 @@ Oklahoma, Fall 2026. Ridwan Hoque.
 
 | Folder | Assignment |
 |---|---|
-| `hw1/` | Homework 1 — artificial neuron representation, decision boundaries, and the perceptron learning rule |
 | `project1/` | Project 1 — a backpropagation network for two-class classification, written from scratch in NumPy |
 
 
